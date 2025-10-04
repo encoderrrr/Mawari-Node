@@ -1,5 +1,4 @@
-![توضیح تصویر](https://raw.githubusercontent.com/encoderrrr/Mawari-Node/refs/heads/main/image.png)
-
+![ ](https://raw.githubusercontent.com/encoderrrr/encoderrrr/refs/heads/main/2.JPG?token=GHSAT0AAAAAACR7R24HO37G7CEGBK47DJTK2HA6WZA)
 # Install Dependecies
 ```shell
 sudo apt-get update && sudo apt-get upgrade -y
