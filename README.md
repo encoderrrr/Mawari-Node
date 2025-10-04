@@ -52,7 +52,8 @@ screen -S mawari
 docker run --pull always -v ~/mawari:/app/cache  -e OWNERS_ALLOWLIST=$OWNER_ADDRESS $MNTESTNET_IMAGE
 ```
 - [ ] Check Logs & Find Your Burner Address
-![تصویر](https://raw.githubusercontent.com/encoderrrr/Mawari-Node/main/1.JPG)
+
+![ ](https://raw.githubusercontent.com/encoderrrr/encoderrrr/refs/heads/main/3.JPG?token=GHSAT0AAAAAACR7R24HULWDZXGPR6TW3Q6G2HA6YXA)
 
 - [ ] get testnet token for main wallet after this Send 1 token from your main wallet to your ***burner** wallet
 
